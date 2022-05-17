@@ -23,7 +23,7 @@
 #include <sourcemod.inc>
 #include <sdkhooks>
 #include <sdktools>
-#include <left4downtown>
+#include <left4dhooks>
 #include <timers.inc>
 
 #define MAX(%0,%1) (((%0) > (%1)) ? (%0) : (%1))
